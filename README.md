@@ -1,2 +1,2 @@
 # discphy.github.io
-Github Blog
+깃헙 블로그 🎄
